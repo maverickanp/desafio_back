@@ -1,0 +1,8 @@
+{
+  "name": "desafio_back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maverickanp/desafio_back.git",
+  "author": "Artur Pedrosa <apedrosa.dev@gmail.com>",
+  "license": "MIT"
+}
